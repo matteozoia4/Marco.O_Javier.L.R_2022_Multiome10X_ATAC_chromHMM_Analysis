@@ -1,5 +1,5 @@
 hub Marco.O_Javier.L.R 2022 Multiome10X_ATAC+chromHMM_Analysis Mus.musculus Heart_tissue 
-shortLabel ATAC+chromHMM Mus.musculus Heart e9.5 e10.5 e11.5 
+shortLabel Marco.O_Javier.L.R 2022 Multiome10X Analysis 
 longLabel ATAC+chromHMM Mus.musculus Heart e9.5 e10.5 e11.5 
 genomesFile genomes.txt 
 email  matteo.zoia@unibe.ch
